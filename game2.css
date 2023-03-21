@@ -24,6 +24,25 @@ body {
     color: white;
 }
 
+
+#countDown h2 {
+    font-size: 22px;
+    display: grid;
+    place-items: center;
+    color: #fff;
+    margin: 0 10px;
+}
+#countDown #time {
+    height: 44px;
+    width: 50px;
+    justify-content: center;
+    background: #fff;
+    color: #f69d9e;
+    border: 1px solid #b0c4d8;
+    border-radius: 15px 7px;
+    margin: 2px 0 0 27px;
+}
+
 .choice-text {
     padding: 2rem;
     width: 100%;
