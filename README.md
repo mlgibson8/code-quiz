@@ -15,3 +15,9 @@ https://mlgibson8.github.io/code-quiz/
 ![repository] (https://github.com/mlgibson8/code-quiz)
 
 ![live] (https://mlgibson8.github.io/code-quiz/)
+
+
+
+help from:
+https://www.youtube.com/watch?v=3fbU4z7fPe4&t=2749s
+https://www.youtube.com/watch?v=riDzcEQbX6k&list=PL0MFvJPgWAZCJgfCXecNG9Sl-7_A9EFKR&index=5&t=541s
