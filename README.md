@@ -10,7 +10,7 @@ i used a final end.html to show everything and link back to the start.
 https://github.com/mlgibson8/code-quiz
 https://mlgibson8.github.io/code-quiz/
 
-![screenshot] (http://github.com/mlgibson8/code-quiz/blob/images/code-quiz/png)
+![screenshot] (https://github.com/mlgibson8/code-quiz/blob/main/code-quiz.png)
 
 ![repository] (https://github.com/mlgibson8/code-quiz)
 
